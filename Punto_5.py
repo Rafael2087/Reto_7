@@ -5,5 +5,4 @@ if __name__ == "__main__":
     while (j > 1):
         j = j - 1
         i = i * j
-    print("El factorial de " + str(k) + " es " + str(i)
-          )
+    print("El factorial de " + str(k) + " es " + str(i))

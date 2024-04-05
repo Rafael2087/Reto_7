@@ -9,3 +9,4 @@ if __name__ == "__main__" :
         else:
             print ("El número es menor")
         j = int(input("Dijite un número: "))
+    print("El número es igual")

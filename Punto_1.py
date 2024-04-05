@@ -7,4 +7,3 @@ if __name__ == "__main__" :
     while ( i <= 100) :
         print ("El cuadrado de " + str(i) + " es igual a " + str(Cuadrado(i)))
         i += 1
-        
